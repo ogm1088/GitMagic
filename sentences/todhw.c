@@ -4,7 +4,7 @@
 // Function to include & executeA
 int taksSentence1()
 {
-    printf("There was a boy whose name is Momorato\n");
+    printf("There was a boy whose name is Momotaro\n");
     return 1;
 }
 
